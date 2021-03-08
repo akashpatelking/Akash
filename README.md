@@ -5,4 +5,3 @@ my  watsaap 7079063261
 2=) git clone https://github.com/akashpatelking/Akash<br>
 3=) cd Akash<br>
 4=) bash start.sh 
-#0000B0
